@@ -1,2 +1,5 @@
-# Food-Restaurant-Webpage
-A Food Restaurant Webpage named Fool's Diner.
+# Food-Restaurant-Landing-Page
+-A family restaurant named Fool's Diner.
+-Used bootstrap tools & own styles.
+-Implemented responsive template.
+
